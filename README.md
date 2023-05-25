@@ -4,7 +4,7 @@
 
 I really enjoy learning new technologies and languages (quite literally!). I'm also into blog writing and enjoy learning and indulging in new cultures! I also enjoy wireframing, prototyping, UI/UX designing and well, creativity in general. 
 
-Skills: MongoDB / REACT / JS / HTML / CSS / Express.js / Node.js / mySQL / Python / C++ 
+Skills: MongoDB / REACT / JS / HTML / CSS / Express.js / Node.js / mySQL / Python / C++ / Java
 
 - 🔭 I’m currently working on SkillScape 
 - 🌱 I’m currently learning Tailwind.css & Vite.js 
